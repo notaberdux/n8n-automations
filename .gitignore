@@ -1,0 +1,5 @@
+# Ignore local n8n data (contains credentials and DB)
+n8n_data/
+
+# OS generated files
+.DS_Store
